@@ -1,4 +1,5 @@
 ## Hi there 👋
+- Engenharia de Computacao na faculdade CEUMA
 
 <!--
 **paulothaylam/paulothaylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
