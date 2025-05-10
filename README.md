@@ -6,7 +6,8 @@
 - Cursando a InCode Tech School Modulo 1
 
 <img src="https://meuvestibular.com.br/wp-content/uploads/2018/11/ceuma-og-1200x900.jpg" alt="socorro" width="40%"> </img>
-<img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" alt="html" width="40%"> </img>
+<img src="![image](https://github.com/user-attachments/assets/96236cbd-1f63-4130-a481-fc91c635bf32)
+" alt="html" width="40%"> </img>
 
 <!--
 **paulothaylam/paulothaylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
