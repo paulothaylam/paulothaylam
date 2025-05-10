@@ -1,5 +1,5 @@
 
-<head>
+<body>
 ## Ola sou Paulo Thaylam!
 <div>
   - Cursando Engenharia de Computacao na universidade CEUMA
@@ -14,7 +14,7 @@
 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="5%"> </img>
 
 <img src="https://meuvestibular.com.br/wp-content/uploads/2018/11/ceuma-og-1200x900.jpg" alt="socorro" width="40%"> </img>
-</head>
+</body>
 
 <!--https://img.icons8.com/?size=100&id=108784&format=png&color=000000
 **paulothaylam/paulothaylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
