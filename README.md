@@ -71,6 +71,8 @@ Se quiser conhecer mais sobre meus projetos e interesses, acesse minhas redes so
   ></img>
 </div>
 
+</br>
+
 
 ### 📊 Estatísticas
 
