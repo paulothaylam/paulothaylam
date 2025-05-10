@@ -1,5 +1,5 @@
 # 👨‍💻 Paulo Thaylam
-**`Programador FullStack`**
+**`Programador Junior`**
 
 Olá, meu nome é Paulo Thaylam, tenho 18 anos e sou natural de São Luís (MA). Concluí o Ensino Médio e atualmente estou cursando o 1º período de Engenharia da Computação na Universidade Ceuma.
 Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo desejo de atuar nesse campo. Estou em busca da minha primeira oportunidade profissional para desenvolver habilidades e contribuir com meu crescimento na área.
