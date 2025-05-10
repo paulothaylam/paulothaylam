@@ -37,8 +37,7 @@ Se quiser conhecer mais sobre meus projetos e interesses, acesse minhas redes so
 
 ---
 ### 🤖 Linguagens e Tecnologias
-<br/>
-<br/>
+
 <div>
   <img 
     src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" 
