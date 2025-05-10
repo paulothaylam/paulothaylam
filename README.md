@@ -6,10 +6,11 @@
 - Cursando a InCode Tech School Modulo 1
 
 <img src="https://meuvestibular.com.br/wp-content/uploads/2018/11/ceuma-og-1200x900.jpg" alt="socorro" width="40%"> </img>
-<img src="![image](https://github.com/user-attachments/assets/96236cbd-1f63-4130-a481-fc91c635bf32)
-" alt="html" width="40%"> </img>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="20%"> </img>
+<img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="css" width="20%"> </img>
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="20%"> </img>
 
-<!--
+<!--https://img.icons8.com/?size=100&id=108784&format=png&color=000000
 **paulothaylam/paulothaylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
