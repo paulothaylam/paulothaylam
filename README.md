@@ -2,11 +2,11 @@
 <body>
 ## Ola sou Paulo Thaylam!
 <div>
-  - Cursando Engenharia de Computacao na universidade CEUMA
-  - Aprendendo Python, HTML, CSS, JavaScript, Figma
-  - Programador Junior
-  - Conhecimendo em engines de jogos (Godot, Game Maker e Unity)
-  - Cursando a InCode Tech School Modulo 1
+- Cursando Engenharia de Computacao na universidade CEUMA
+- Aprendendo Python, HTML, CSS, JavaScript, Figma
+- Programador Junior
+- Conhecimendo em engines de jogos (Godot, Game Maker e Unity)
+- Cursando a InCode Tech School Modulo 1
 </div>
 
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="5%"> </img>
