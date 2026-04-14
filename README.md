@@ -1,4 +1,4 @@
-# 👨‍💻 Paulo Thaylam
+# 👨‍💻 Paulo Thaylam Gomes Coelho
 **`Programador Pleno`**
 
 Olá, meu nome é Paulo Thaylam, tenho 19 anos e sou natural de São Luís (MA). Concluí o Ensino Médio e atualmente estou cursando o 3º período de Engenharia da Computação na Universidade Ceuma.
