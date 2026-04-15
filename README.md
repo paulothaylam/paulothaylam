@@ -19,7 +19,7 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
       target="_blank"
       alt="Linkedin-Icon" title="Veja minha conta do linkedin!"
     > </a>
-    <a href="https://www.instagram.com/thaylam06/" target="_blank">
+    <a href="https://github.com/paulothaylam/Portifolio/tree/main" target="_blank">
     <img 
       src="https://img.shields.io/badge/portifolio-9567AD?style=for-the-badge&logo=buymeacoffee&logoColor=FEF200" 
       target="_blank"
