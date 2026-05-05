@@ -20,11 +20,13 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
       alt="Linkedin-Icon" title="Veja minha conta do linkedin!"
     > </a>
     <a href="https://github.com/paulothaylam/Portifolio/tree/main" target="_blank">
+      <!--
     <img 
       src="https://img.shields.io/badge/portifolio-9567AD?style=for-the-badge&logo=buymeacoffee&logoColor=FEF200" 
       target="_blank"
       alt="Intagram-Icon" title="Veja meu portifolio!">  </a>
   <a href="https://www.instagram.com/thaylam06/" target="_blank">
+      -->
     <img 
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
       target="_blank"
@@ -32,7 +34,17 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
 
 </div>
 
-
+<!--
+<kbd align="center">
+  <div align="center"> <kbd> FrontEnd</kbd> </div>
+  <br> <br>
+  <div align="center">
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript&perline=7&theme=dark" />
+    </a>
+  </div>
+</kbd>
+-->
 
 <br>
 
