@@ -1,5 +1,5 @@
 # 👨‍💻 Paulo Thaylam Gomes Coelho
-**`Developer | Programador Pleno`** <br>
+**`Junior Developer | Programador Junior`** <br>
 - `São Luís - Maranhão` <br>
 - `19 Anos`<br><br>
 
@@ -42,7 +42,7 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
   <h3> 🤖 Linguagens e Tecnologias ⌨️  </h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,bootstrap,express,c,git,figma,python,mysql,lua&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,bootstrap,c,git,figma,python,mysql,lua,godot,gamemakerstudio&perline=7&theme=dark" />
   </a>
   
   
