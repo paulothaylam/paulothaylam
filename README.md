@@ -19,7 +19,7 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
       target="_blank"
       alt="Linkedin-Icon" title="Veja minha conta do linkedin!"
     > </a>
-    <a href="https://github.com/paulothaylam/Portifolio/tree/main" target="_blank">
+    <a href="https://github.com/paulo-thaylam/Portifolio/tree/main" target="_blank">
       <!--
     <img 
       src="https://img.shields.io/badge/portifolio-9567AD?style=for-the-badge&logo=buymeacoffee&logoColor=FEF200" 
@@ -54,7 +54,7 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
   <h3> 🤖 Linguagens e Tecnologias ⌨️  </h3>
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,bootstrap,c,git,figma,python,mysql,lua,godot,gamemakerstudio&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,bootstrap,c,git,figma,python,mysql,lua,godot,gamemakerstudio&perline=7&theme=dark" />
   </a>
   
   
