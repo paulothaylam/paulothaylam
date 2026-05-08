@@ -13,28 +13,28 @@ Tenho grande interesse pela área de tecnologia, motivado desde a infância pelo
 
 <div id="social-media" align="center"> 
   <p> <strong> Se quiser conhecer mais sobre meus projetos e interesses, acesse minhas redes sociais. </strong> </p>
-  <a href="https://www.linkedin.com/in/thaylam2006/"> 
+  <a href="https://www.linkedin.com/in/paulo-thaylam/"> 
     <img 
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       target="_blank"
       alt="Linkedin-Icon" title="Veja minha conta do linkedin!"
     > </a>
 
-  <a href="https://github.com/paulo-thaylam/Portifolio/tree/main" target="_blank">
+  <a href="https://www.instagram.com/thaylam06/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/portifolio-9567AD?style=for-the-badge&logo=buymeacoffee&logoColor=FEF200" 
+      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
       target="_blank"
       alt="Intagram-Icon" title="Veja meu portifolio!">  
   </a>
     
-    <!--
-    <a href="https://www.instagram.com/thaylam06/" target="_blank">
+  <!--
+    <a href="https://github.com/paulo-thaylam/Portifolio/tree/main" target="_blank">
     <img 
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      src="https://img.shields.io/badge/portifolio-9567AD?style=for-the-badge&logo=buymeacoffee&logoColor=FEF200" 
       target="_blank"
       alt="Portifolio" title="Me Siga no Instagram!">  
     </a>
-    -->
+  -->
 
 
 </div>
